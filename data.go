@@ -1,4 +1,4 @@
-package info
+package govars
 
 var (
 	V1 string
